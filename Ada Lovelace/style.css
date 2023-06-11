@@ -1,0 +1,40 @@
+
+h1{
+    background-color: lightgrey;
+    text-align: center;
+    position: relative;
+    top: 5px;
+    width: 95%;
+    height: 60px;
+    padding: 15px;
+    margin: 5px 15px 5px 15px;
+    border-radius: 5px 5px 1px 1px;
+}
+
+.imagem{
+    position: relative;
+    top: 10px;
+    left: 23%;
+    height: 85%;
+    width: 50%;
+}
+
+p{
+    width: 25%;
+    height: 80%;
+    font-size: 20px;
+    text-align: justify;
+    position: relative;
+    bottom: 530px;
+    left: 60%;
+    background-color: lightgrey;
+}
+
+img{
+    background-color: white;
+    width: 50%;
+    height: 600px;
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
